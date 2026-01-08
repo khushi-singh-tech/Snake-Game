@@ -3,6 +3,8 @@
 A sleek and modern Snake Game built using HTML, CSS, and JavaScript.
 Featuring smooth animations, a real-time timer, persistent high-score tracking, and a clean UI — this project recreates the classic arcade experience inside your browser.
 
+Live Demo : https://snake-game-0nline.netlify.app/
+
 🚀 Features
 
 ✔️ Clean and responsive UI
